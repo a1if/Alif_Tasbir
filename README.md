@@ -1,4 +1,4 @@
-# Hello there !
+# Hello there!
 
 
 My name is Alif Tasbir. I am a fresh graduate in Computer Science and Engineering at [University of Information Technology & Sciences](https://uits.edu.bd/) in Bangladesh. Hard working and passionate about software development and data science. Eager to embark on a journey into the dynamic world of artificial intelligence,
@@ -6,7 +6,7 @@ My name is Alif Tasbir. I am a fresh graduate in Computer Science and Engineerin
 ### Interests
 - Back-end Web Development
 - Data Science
-- Machine Learning,Deep Learning
+- Machine Learning, Deep Learning
 
 
 ## Connect:
@@ -39,11 +39,11 @@ My name is Alif Tasbir. I am a fresh graduate in Computer Science and Engineerin
 <br>
 
 ### Research Experience
- Bachelor Thesis: Epileptic seizure detection from electroencephalogram (EEG) signals using linear graph convolutional network and DenseNet based hybrid framework
+ Bachelor Thesis: Epileptic seizure detection from electroencephalogram (EEG) signals using linear graph convolutional network and DenseNet-based hybrid framework
 - Paper: [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1687850723000857)
-- Supervisor: Ferdaus Anam Jibon, Assistant Professor,IUBAT—International University of Business Agriculture and Technology
-- Domain: Machine Learning, Data Science, and Brain Health
-- Tools:  Python, MNE ,Tensorflow, Keras, Numpy, Pandas, Matplotlib, Seaborn, Sklearn, etc.
-- Models: Machine Learning Classifiers, Linear Graph Convolutional Neural Network,Densenet etc.
+- Supervisor: Ferdaus Anam Jibon, Assistant Professor, IUBAT—International University of Business Agriculture and Technology
+- Domain: Machine Learning, Data Science, signal processing and Brain Health
+- Tools:  Python, MNE, Tensorflow, Keras, Numpy, Pandas, Matplotlib, Seaborn, Sklearn, etc.
+- Models: Machine Learning Classifiers, Linear Graph Convolutional Neural Network, Densenet etc.
 
 <br>
